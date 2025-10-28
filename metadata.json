@@ -1,0 +1,7 @@
+{
+  "name": "Productiwise AI Assistant",
+  "description": "A mobile-first SaaS productivity app called Productiwise, featuring a built-in AI assistant named Wisely. It helps users manage tasks, habits, and goals with AI-powered insights and voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
